@@ -1,6 +1,6 @@
-# 课程学习资料与笔记 / Course Study Materials and Notes
+# HITsz 课程学习资料与笔记 / HITsz Course Study Materials and Notes
 
-这是一个结合 AI Agent 与学校课程资源整理的学习资料和笔记项目，旨在将课程中的重点内容沉淀为便于查阅、复习和理解的学习记录。
+这是一个结合 AI Agent 与HITsz学校课程资源整理的学习资料和笔记项目，旨在将课程中的重点内容沉淀为便于查阅、复习和理解的学习记录。
 
 This project collects study materials and notes organized with AI agents and school course resources. It turns key course content into learning records that are easier to review, revisit, and understand.
 
@@ -9,7 +9,6 @@ This project collects study materials and notes organized with AI agents and sch
 - 按课程或主题整理的知识总结
 - 课程学习过程中的笔记与补充说明
 - 可用于复习、查缺补漏和理解概念的参考资料
-
 - Knowledge summaries organized by course or topic
 - Notes and supplementary explanations from the learning process
 - Reference materials for review, filling knowledge gaps, and understanding concepts
